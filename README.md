@@ -39,7 +39,8 @@ Users can deposit, withdraw, and view all amount related data.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mdjihadalom/Simple-Banking-System-Using-DOM.git
+   https://github.com/mdjihadalom/Simple-Banking-System-Using-DOM.git
+   
 
 ## 📌 Usage
 
