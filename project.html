@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="project.css">
+    <title>Simple Banking System</title>
+</head>
+
+<body>
+
+    <!-- header title section -->
+    <h1 class="header-text" >Simple Banking System</h1>
+
+    <!-- details balance section -->
+
+    <div class="account-summary">
+        <div class="balance-card deposit-card">
+            <div>
+                <h1 id="depositAmount">0</h1>
+                <p>Deposit</p>
+            </div>
+        </div>
+        <div class="balance-card withdraw-card">
+            <div>
+                <h1 id="withdrawAmount">0</h1>
+                <p>Withdraw</p>
+            </div>
+        </div>
+        <div class="balance-card total-card">
+            <div>
+                <h1 id="totalBalance">0</h1>
+                <p>Total</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- button section -->
+
+    <div class="transaction-inputs">
+        <div class="transaction-box">
+            <input type="number" id="depositInput"><br>
+            <button onclick="handleDeposit()" class="button">Deposit</button>
+        </div>
+        <div class="transaction-box">
+            <input type="number" id="withdrawInput"><br>
+            <button onclick="handleWithdraw()" class="button">Withdraw</button>
+        </div>
+    </div>
+    <!-- footer section -->
+    <p class="copy">&copy; 2025 - MD JIHAD ALOM. All rights reserved.</p>
+
+    <script src="project.js"></script>
+</body>
+
+</html>
