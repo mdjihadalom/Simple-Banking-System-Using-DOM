@@ -1,4 +1,4 @@
-# 🏦 Simple Banking System
+## Simple Banking System
 <p align="center">
   <img src="./elements/bank.png" alt="Simple Banking Logo" width="150">
 </p>
@@ -6,7 +6,7 @@
 A simple banking system built with **HTML, CSS, and JavaScript**.  
 Users can deposit, withdraw, and view all amount related data.
 
-🔗 **Live Demo:** [View Here](https://mdjihadalom.github.io/Simple-Banking-System-Using-DOM/)
+🔗 **Live Demo:** 👉 [View Here](https://mdjihadalom.github.io/Simple-Banking-System-Using-DOM/)
 
 ---
 
@@ -22,8 +22,8 @@ Users can deposit, withdraw, and view all amount related data.
 ✅ Deposit money  
 ✅ Withdraw money  
 ✅ View all amount related data  
-✅ User-friendly interface  
-✅ User-friendly interface  
+✅ Prevents invalid transactions – Users cannot deposit or withdraw negative or null values; an alert message is displayed.    
+✅ User-friendly interface    
 
 ---
 
@@ -39,4 +39,28 @@ Users can deposit, withdraw, and view all amount related data.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/simple-banking-system.git
+   git clone https://github.com/mdjihadalom/simple-banking-system.git
+
+## 📌 Usage
+
+1. Enter an amount and click **Deposit** to add money.  
+2. Enter an amount and click **Withdraw** to remove money.  
+3. View the updated balance and transactions.  
+
+---
+
+## 🤝 Contributing
+
+1. Fork the project  
+2. Create a new branch (`git checkout -b feature-branch`)  
+3. Commit your changes (`git commit -m "Added new feature"`)  
+4. Push to the branch (`git push origin feature-branch`)  
+5. Open a Pull Request  
+
+---
+
+## 📜 License
+
+This project is **free to use** and does not require a license.  
+
+---
