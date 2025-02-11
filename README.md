@@ -1,6 +1,6 @@
 ## Simple Banking System
 <p align="center">
-  <img src="./elements/bank.png" alt="Simple Banking Logo" width="150">
+  <img src="./Simple-Banking-System/elements/bank.png" alt="Simple Banking Logo" width="150">
 </p>
 
 A simple banking system built with **HTML, CSS, and JavaScript**.  
@@ -12,8 +12,8 @@ Users can deposit, withdraw, and view all amount related data.
 
 ## 📸 Screenshots
 
-![Screenshot 1](./elements/Capture.JPG)
-![Screenshot 2](./elements/Capture2.JPG)
+![Screenshot 1](./Simple-Banking-System/elements/Capture.JPG)
+![Screenshot 2](./Simple-Banking-System/elements/Capture2.JPG)
 
 ---
 
