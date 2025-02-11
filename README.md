@@ -1,7 +1,8 @@
-# 🏦 Simple Banking Management System
+# 🏦 Simple Banking System
+# ![Simple Banking Logo](./elements/bank.png)
 
 A simple banking system built with **HTML, CSS, and JavaScript**.  
-Users can deposit, withdraw, and view transaction history in a simple and interactive interface.
+Users can deposit, withdraw, and view all amount related data.
 
 🔗 **Live Demo:** [View Here](https://mdjihadalom.github.io/Simple-Banking-System-Using-DOM/)
 
@@ -9,8 +10,8 @@ Users can deposit, withdraw, and view transaction history in a simple and intera
 
 ## 📸 Screenshots
 
-![Screenshot 1](https://your-image-link.com)
-![Screenshot 2](https://your-image-link.com)
+![Screenshot 1](./elements/Capture.JPG)
+![Screenshot 2](./elements/Capture2.JPG)
 
 ---
 
@@ -18,7 +19,8 @@ Users can deposit, withdraw, and view transaction history in a simple and intera
 
 ✅ Deposit money  
 ✅ Withdraw money  
-✅ View transaction history  
+✅ View all amount related data  
+✅ User-friendly interface  
 ✅ User-friendly interface  
 
 ---
