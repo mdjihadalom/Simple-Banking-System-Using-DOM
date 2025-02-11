@@ -101,3 +101,27 @@ body {
     border: 0.5px solid white;
     border-radius: 4px;
 }
+
+/* Mobile Responsive Styles */
+@media screen and (max-width: 768px) {
+    .account-summary {
+        flex-direction: column;
+        font-size: 24px;
+    }
+
+    .balance-card {
+        width: 80%;
+        height: 150px;
+    }
+
+    .transaction-inputs {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .transaction-box {
+        width: 60%;
+        height: auto;
+        padding: 20px;
+    }
+}
